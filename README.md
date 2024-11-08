@@ -31,8 +31,10 @@ width=60% height=60%>
 Файлы проекта содержат stl модели для корпуса устройства выполненного на распаечной плате размером 70х50 мм
 
 <img src="https://github.com/user-attachments/assets/4396c432-38e3-4665-89e7-814c86ddc8b1" 
-width=60% height=60%>
+width=40% height=40%>
 
+<img src="https://github.com/user-attachments/assets/9db554c8-04a1-4163-9326-e9e20209358f" 
+width=10% height=10%>
 
 Основной файл прошивки ESP8266 - MesFull_V1.0.
 

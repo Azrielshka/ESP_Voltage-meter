@@ -8,8 +8,6 @@ width=30% height=30%>
 <img src="https://github.com/user-attachments/assets/885d3d7d-9fad-41d3-87ef-0ee8167eaf87" 
 width=56% height=56%>
 
-Файлы проекта содержат stl модели для корпуса устройства выполненного на распаечной плате размером 70х50 мм
-
 * Компоненты ESP_Voltage-meter:
 	* 1. Датчик тока INA
    	* 2. ESP8266/ESP32 (нетестировалось)
@@ -29,8 +27,8 @@ width=60% height=60%>
 <img src="https://github.com/user-attachments/assets/91c81461-6a15-47e3-9b62-b30f59fb3db0" 
 width=60% height=60%>
 
-
-Моделирование корпуса для ESP_Voltage-meter выполненно в КОМПАС-3D v.21
+Моделирование корпуса для ESP_Voltage-meter выполненно в КОМПАС-3D v.21. 
+Файлы проекта содержат stl модели для корпуса устройства выполненного на распаечной плате размером 70х50 мм
 
 <img src="https://github.com/user-attachments/assets/4396c432-38e3-4665-89e7-814c86ddc8b1" 
 width=60% height=60%>

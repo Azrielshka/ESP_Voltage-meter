@@ -36,7 +36,13 @@ width=45% height=45%>
 <img src="https://github.com/user-attachments/assets/9db554c8-04a1-4163-9326-e9e20209358f" 
 width=30% height=30%>
 
-Основной файл прошивки ESP8266 - MesFull_V1.0.
+Представленные файлы прошивки:
+
+	*ESP8266-I2C-SCANNER - поиск адресов и датчиков на шине I2C для ESP
+ 	*MeasureV - тест датчиков INA с выводом в монитор порта
+  	*MesFull_V1.0 - основная прошивка. Загружаем её!
+   	*Test_gyver_hub - тест передачи данных на сервер MQTT и приложения. Без датчиков.
+
 
 	* Отлажено на хосте "Москито"
 	* Хост: test.mosquitto.org

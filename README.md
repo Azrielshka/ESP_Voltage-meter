@@ -18,7 +18,8 @@ width=56% height=56%>
 
 
 
-![IMG_7396](https://github.com/user-attachments/assets/1521381b-db4c-438b-a157-75bdb11d0623)
+<img src="https://github.com/user-attachments/assets/1521381b-db4c-438b-a157-75bdb11d0623" 
+width=60% height=60%>
 
 Тестировалось с INA226, относительная погрешность около 0.1 %
 

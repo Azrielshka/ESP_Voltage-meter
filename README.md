@@ -17,24 +17,24 @@ width=56% height=56%>
 
 
 <img src="https://github.com/user-attachments/assets/1521381b-db4c-438b-a157-75bdb11d0623" 
-width=60% height=60%>
+width=45% height=45%>
+<img src="https://github.com/user-attachments/assets/91c81461-6a15-47e3-9b62-b30f59fb3db0" 
+width=45% height=45%>
 
 Тестировалось с INA226, относительная погрешность около 0.1 %
 
 <img src="https://github.com/user-attachments/assets/59c09095-dd76-4e89-a066-4f06377baf55" 
-width=60% height=60%>
+width=30% height=30%>
 
-<img src="https://github.com/user-attachments/assets/91c81461-6a15-47e3-9b62-b30f59fb3db0" 
-width=60% height=60%>
+
 
 Моделирование корпуса для ESP_Voltage-meter выполненно в КОМПАС-3D v.21. 
 Файлы проекта содержат stl модели для корпуса устройства выполненного на распаечной плате размером 70х50 мм
 
 <img src="https://github.com/user-attachments/assets/4396c432-38e3-4665-89e7-814c86ddc8b1" 
-width=40% height=40%>
-
+width=45% height=45%>
 <img src="https://github.com/user-attachments/assets/9db554c8-04a1-4163-9326-e9e20209358f" 
-width=10% height=10%>
+width=30% height=30%>
 
 Основной файл прошивки ESP8266 - MesFull_V1.0.
 

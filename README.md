@@ -6,7 +6,7 @@ IOT power. V 1.0. Отслеживание уровня заряда аккум�
 <img src="https://github.com/user-attachments/assets/d01430d7-fd4d-4cf9-a829-d07ced1adbdd" 
 width=30% height=30%>
 <img src="https://github.com/user-attachments/assets/67adf0f7-ece6-4531-a142-2989cad0c537" 
-width=75% height=75%>
+width=70% height=70%>
 
 Файлы проекта содержат stl модели для корпуса устройства выполненного на распаечной плате размером 70х50 мм
 

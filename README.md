@@ -1,7 +1,17 @@
 # ESP_Voltage-meter
 IOT power. V 1.0. Отслеживание уровня заряда аккумов 7 / 12 / 24 В на ESP8266/ESP32 на INA и MQTT, работает с датчиками INA219, INA226
 
+Устройство измеряет напряжение на аккумуляторе, преобразует в процент заряда и отправляет на сервер MQTT. Мониторинг можно производить в приложении GyverHub (доступно AppStore, GooglePlay)
+
 Файлы проекта содержат stl модели для корпуса устройства выполненного на распаечной плате размером 70х50 мм
+
+* Компоненты ESP_Voltage-meter:
+	* 1. Датчик тока INA
+   	* 2. ESP8266/ESP32 (нетестировалось)
+   	* 3. Распаечная плата 70х50 мм
+   	* 4. PIN PCB connector mother/father
+
+![IMG_7395](https://github.com/user-attachments/assets/67adf0f7-ece6-4531-a142-2989cad0c537)
 
 ![IMG_7396](https://github.com/user-attachments/assets/1521381b-db4c-438b-a157-75bdb11d0623)
 

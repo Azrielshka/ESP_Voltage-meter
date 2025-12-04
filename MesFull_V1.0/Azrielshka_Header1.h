@@ -11,11 +11,11 @@
 #pragma once
 #include <Arduino.h>
 //Сеть wifi
-#define Wifi_log "RT-WiFi-03FD"				  //имя сети wifi
-#define Wifi_pass "bPXtFtGX"				    //пароль wifi
+#define Wifi_log "**-****-****"				  //имя сети wifi
+#define Wifi_pass "*******"				    //пароль wifi
 //MQTT сервер
-#define NAME_NETWORK "Azrielshka_Dev"	  //имя сети (не имя wifi)
-#define NAME_DEVICE "Pathfinder"			  // имя устройства в этой сети - будет отображается в приложении
+#define NAME_NETWORK "your_name"	  //имя сети (не имя wifi)
+#define NAME_DEVICE "your_device"			  // имя устройства в этой сети - будет отображается в приложении
 #define LOGO "f1eb"	
 //Настройки для датчика INA
 #define Shunt 0.1							          //Шунт, Ом. Номинал резистора. По умолчанию 0.01 Ом
@@ -24,3 +24,4 @@
 #define VERSION_INA 1						        //Используемый датчик. 0 - 219, 1 - 226.
 const float max_volt = 11.7;					  //Максимальный уровень заряда - 100 % (будет отображаться как 100 % в приложении), В
 const float min_volt = 9.5;             //Минимальный уровень заряда - 0 % (будет отображаться как 0 % в приложении), В
+
